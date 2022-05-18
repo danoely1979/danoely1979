@@ -1,4 +1,4 @@
-Hi there 👋 
+Hey 👋 
 =====================
 
 * 🌍  I'm based in Dublin, Ireland
