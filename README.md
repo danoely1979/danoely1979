@@ -1,9 +1,11 @@
 Hey 👋 
 =====================
 
-* 🌍  I'm based in Dublin, Ireland
-* 🚀  I'm currently working on [thefullstack](http://thefullstack.network)
+* 🌍  Based in Dublin, Ireland
+* 🚀  Working on [thefullstack](http://thefullstack.network)
 * ⚡  Guitarist and sound engineering nerd
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danoely1979&label=Profile%20views&color=0e75b6&style=flat" alt="danoely1979" /> </p>
 
 ### Skills
 
