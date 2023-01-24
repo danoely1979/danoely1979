@@ -2,7 +2,7 @@ Hey 👋
 =====================
 
 * 🌍  Based in Dublin, Ireland
-* 🚀  Working on [The Full Stack](http://thefullstack.network)
+* 🚀  Building [The Full Stack](http://thefullstack.network)
 * ⚡  Guitarist and sound engineering nerd
 
 
